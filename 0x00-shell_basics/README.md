@@ -1,1 +1,1 @@
-this is an alx task for shell scripting.
+0x00 Shell basics
